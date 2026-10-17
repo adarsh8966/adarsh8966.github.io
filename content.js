@@ -14,7 +14,7 @@ window.PORTFOLIO = {
     location: "Buffalo, New York",
     email: "adarshdodeja15@gmail.com",
     github: "https://github.com/Adarsh8966",
-    linkedin: "", // Add a link when ready. Empty links stay hidden.
+    linkedin: "https://www.linkedin.com/in/adarsh-dodeja-3a73382a1/", 
     resume: "media/Adarsh_Dodeja_Resume.pdf",
     availability: "Interested in robotics, embedded systems & hardware engineering roles",
     intro: "I work where electronics, code, and physical systems meet. From sensor-level firmware to robot motion control, I like engineering that has to work beyond a simulation.",
